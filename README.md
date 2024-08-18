@@ -1,4 +1,5 @@
 # BSLNet: AI-Driven British Sign Language Recognition Using Artificial Neural Networks
+![BSLNet Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzvWbK6ZG_gwmTHQw0EvLiGrp9Srfdqv5GZQ&s)
 
 ## Project Overview
 
