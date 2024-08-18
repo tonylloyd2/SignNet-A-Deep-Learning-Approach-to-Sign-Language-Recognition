@@ -1,4 +1,4 @@
-# SignNet-A-Deep-Learning-Approach-to-Sign-Language-Recognition
+# BSLNet: AI-Driven British Sign Language Recognition Using Artificial Neural Networks
 
 ## Project Overview
 
